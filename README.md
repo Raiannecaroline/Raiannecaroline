@@ -5,6 +5,13 @@
 <h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 🙎 Raiane Caroline | 💻 Full Stack Developer | 🎮 Brasil , BR <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
 </div>
 
+<div align="center">
+  
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Raiannecaroline?cardType=level&theme=dracula)](https://git.io/awesome-stats-card)
+  
+</div>
+
+
 Em construção...
 
 <!--
