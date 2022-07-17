@@ -9,10 +9,12 @@
   
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Raiannecaroline?cardType=level&theme=dracula)](https://git.io/awesome-stats-card)
   
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Raiannecaroline)](https://github.com/Raiannecaroline/github-readme-stats)
+  
 </div>
 
 <p align="center">
- 🌱 Linguagens e Ferramentas que estou aprendendo:
+ 🌱 Linguagens e Ferramentas que tenho XP:
 </p>
 
  <p align="center">
@@ -29,16 +31,23 @@
    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
    </a>
-   <a href="https://nodejs.org">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/>
-   </a>
    <a href="https://git-scm.com/">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="40" height="40"/>
    </a>
 </p>
 
+<p align="center">
+ 🌱 Linguagens e Ferramentas que tenho aprendido:
+</p>
 
-Em construção...
+<p align="center">
+ <a href="https://nodejs.org">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/>
+ </a>
+  
+ </p> 
+
+
 
 <!--
 **Raiannecaroline/Raiannecaroline** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
