@@ -9,7 +9,7 @@
   
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Raiannecaroline?cardType=level&theme=dracula)](https://git.io/awesome-stats-card)
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Raiannecaroline)](https://github.com/Raiannecaroline/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Raiannecaroline&layout=compact)](https://github.com/Raiannecaroline/github-readme-stats)
   
 </div>
 
@@ -34,6 +34,12 @@
    <a href="https://git-scm.com/">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="40" height="40"/>
    </a>
+   <a href="https://angular.io/">
+       <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" alt="Angular" width="40" height="40"/>
+  </a>
+  <a>
+      <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" width="40" height="40"/>
+  </a>
 </p>
 
 <p align="center">
@@ -41,11 +47,50 @@
 </p>
 
 <p align="center">
+  
  <a href="https://nodejs.org">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/>
  </a>
   
- </p> 
+ <a href="https://getbootstrap.com/">
+      <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="Bootstrap" width="40" height="40"/>
+ </a>
+  
+  <a href="https://www.typescriptlang.org/">
+       <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="Typescript" width="40" height="40"/>
+  </a> 
+  
+  <a href="https://pt-br.reactjs.org/">
+       <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React" width="40" height="40"/>
+  </a>  
+  
+  <a href="https://www.mysql.com/">
+        <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="MySQL" width="40" height="40"/>
+  </a>
+  
+  <a href="https://www.postgresql.org/">
+        <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" alt="PostegreSQL" width="40" height="40"/>
+  </a>
+  
+  <a href="https://firebase.google.com/?gclid=CjwKCAjw5s6WBhA4EiwACGncZYBm3Wp-87aR2a2bYqFTHoV1FhCPbuFy3YM4vgpxlmyAFQrl4_pv5RoCJIAQAvD_BwE&gclsrc=aw.ds">
+        <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" width="40" height="40"/>
+  </a>
+  
+  <a href="https://www.mongodb.com/cloud/atlas/lp/compare-mongodb-vs-postgresdb?utm_source=google&utm_campaign=gs_americas_brazil_search_nbnoncompetitor_atlas_desktop&utm_term=postgres&utm_medium=cpc_paid_search&utm_ad=e&utm_ad_campaign_id=12314592861&adgroup=117139493749&gclid=CjwKCAjw5s6WBhA4EiwACGncZSKpufy3-tzmZ8jL7EXSpebiidfyFNYh3pRqEHybm6A3hLyCM9QdoxoCR5EQAvD_BwE">
+        <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" alt="MongoDB" width="40" height="40"/>
+  </a>  
+  
+  <a href="https://www.python.org/">
+        <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" width="40" height="40"/>
+  </a>
+  
+  <a href="https://aws.amazon.com/pt/">
+    <img src="https://github.com/melanieshi0120/melanieshi0120/blob/master/images/AWS.jpeg" width="80" height="40"/>
+  </a>  
+  
+ </p>
+ 
+ Em Construção...
 
 
 
