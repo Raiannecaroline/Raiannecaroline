@@ -3,6 +3,8 @@
 <h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 🙎 Raiane Caroline | 💻 Full Stack Developer | 🎮 Brasil , BR <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
 </div>
 
+##
+
 <br>
 
 <p align="center">
@@ -11,6 +13,8 @@
 <a href="https://instagram.com/printsgamer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="printsgamer" height="30" width="40" /></a>
 </p>
 
+##
+
 <br>
 
 <div align="center">
@@ -18,9 +22,11 @@
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Raiannecaroline?cardType=level&theme=dracula)](https://git.io/awesome-stats-card)
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Raiannecaroline&layout=compact)](https://github.com/Raiannecaroline/github-readme-stats)
-
+  
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=raiannecaroline&" alt="raiannecaroline" /></p>
 
+##   
+  
 </div>
 
 <p align="center">
@@ -56,6 +62,8 @@
   </a>
   
 </p>
+
+##
 
 <p align="center">
  🌱 Linguagens e Ferramentas que tenho aprendido:
@@ -125,6 +133,8 @@
   
  </p>
  
+ ##
+ 
  <p align="center">
  🌱 Ferramentas de Designer e UX/UI:
 </p>
@@ -149,6 +159,8 @@
   
 </p>
 
+##
+
 <p align="center">
  🌱 Hospedagem de Sites:
 </p>
@@ -160,6 +172,8 @@
  </a>
   
 </p>
+
+##
 
 <p align="center">
  🌱 Testes:
@@ -181,6 +195,8 @@
   
 </p>
 
+##
+
 <p align="center">
  🌱 Desenvolvimento em Games:
 </p>
@@ -196,6 +212,8 @@
   </a>
   
 </p>
+
+##
  
  Em Construção...
 
