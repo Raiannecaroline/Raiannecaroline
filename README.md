@@ -11,6 +11,9 @@
 <a href="https://twitter.com/raiannecaroline" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="raiannecaroline" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/raiannecaroline" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="raiannecaroline" height="30" width="40" /></a>
 <a href="https://instagram.com/printsgamer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="printsgamer" height="30" width="40" /></a>
+  <br>
+  <br>
+  <img src="https://i.picasion.com/pic92/6ab712e0381f7b495b02990b52961d6f.gif" width="150" height="150" border="0" alt="Rai-pic" />
 </p>
 
 ##
