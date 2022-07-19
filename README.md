@@ -1,16 +1,26 @@
-<a href="https://twitter.com/Raiannecaroline" target="_blank" rel="nofollow"><img align="right" alt="Raiane's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /></a><a href="https://www.linkedin.com/in/raiannecaroline/" target="_blank" rel="nofollow"><img align="right" alt="Raiane's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a><a href="https://www.instagram.com/raiannecaroline_" target="_blank" rel="nofollow"><img align="right" alt="Raiane's Insta" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a>
-<br>
 
 <div align="center">
 <h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 🙎 Raiane Caroline | 💻 Full Stack Developer | 🎮 Brasil , BR <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
 </div>
+
+<br>
+
+<p align="center">
+<a href="https://twitter.com/raiannecaroline" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="raiannecaroline" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/raiannecaroline" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="raiannecaroline" height="30" width="40" /></a>
+<a href="https://instagram.com/printsgamer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="printsgamer" height="30" width="40" /></a>
+</p>
+
+<br>
 
 <div align="center">
   
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Raiannecaroline?cardType=level&theme=dracula)](https://git.io/awesome-stats-card)
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Raiannecaroline&layout=compact)](https://github.com/Raiannecaroline/github-readme-stats)
-  
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=raiannecaroline&" alt="raiannecaroline" /></p>
+
 </div>
 
 <p align="center">
@@ -40,6 +50,11 @@
   <a>
       <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" width="40" height="40"/>
   </a>
+  
+  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> 
+      <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> 
+  </a>
+  
 </p>
 
 <p align="center">
@@ -58,7 +73,11 @@
   
   <a href="https://www.typescriptlang.org/">
        <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="Typescript" width="40" height="40"/>
-  </a> 
+  </a>
+  
+  <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
+  </a>
   
   <a href="https://pt-br.reactjs.org/">
        <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React" width="40" height="40"/>
@@ -84,11 +103,55 @@
         <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" width="40" height="40"/>
   </a>
   
-  <a href="https://aws.amazon.com/pt/">
-    <img src="https://github.com/melanieshi0120/melanieshi0120/blob/master/images/AWS.jpeg" width="80" height="40"/>
-  </a>  
+  <a href="https://aws.amazon.com/pt/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
+  </a>
+  
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> 
+  </a>
   
  </p>
+ 
+ <p align="center">
+ 🌱 Ferramentas de Designer e UX/UI:
+</p>
+
+<p align="center">
+  
+  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
+  </a>
+  
+  <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> 
+        <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> 
+  </a>
+  
+</p>
+
+<p align="center">
+ 🌱 Hospedagem de Sites:
+</p>
+
+<p align="center">
+  
+ <a href="https://heroku.com" target="_blank" rel="noreferrer"> 
+      <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> 
+ </a>
+  
+</p>
+
+<p align="center">
+ 🌱 Testes:
+</p>
+
+<p align="center">
+  
+ <a href="https://jasmine.github.io/" target="_blank" rel="noreferrer"> 
+      <img src="https://www.vectorlogo.zone/logos/jasmine/jasmine-icon.svg" alt="jasmine" width="40" height="40"/> 
+ </a>
+  
+</p>
  
  Em Construção...
 
