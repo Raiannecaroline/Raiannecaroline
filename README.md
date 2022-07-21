@@ -228,7 +228,7 @@
 
 ##
  
- Em Construção...
+![Snake animation](https://github.com/Raiannecaroline/Raiannecaroline/blob/output/github-contribution-grid-snake.svg)
 
 
 
