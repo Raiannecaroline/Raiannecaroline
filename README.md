@@ -3,8 +3,12 @@
 <h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 🙎 Raiane Caroline | 💻 Full Stack Developer | 🎮 Brasil , BR <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
 <br>
   
-  👩‍💻 Moro em Eunápolis - BA e tenho 28 anos
-  🌟 Desde muito nova, sempre fui encantada pela tecnologia e sempre fui muito curiosa quanto a isso. O mundo dos games me abriu portas desse maravilhoso mundo, na época não tive contato com a programação, mas ja sabia mexer na parte de Hardware e prestar suporte, inclusive faço freelancer na área de suporte em hardware e software. Aprendi programação em 2019 e desde então meu mundo ficou diferente, foi aquilo que eu queria para o resto da minha vida. Passaram 3 anos desde então, e aprendi HTML, CSS, JavaScript, Angular, MySQL, No-SQL, TypeScript, Java, Python e React. Ainda não estou empregada na área, mas estou cada dia evoluindo mais e mais para isso.
+</div>
+
+<div align="center">
+ 
+   - 👩‍💻 Moro em Eunápolis - BA e tenho 28 anos
+  - 🌟 Desde muito nova, sempre fui encantada pela tecnologia e sempre fui muito curiosa quanto a isso. O mundo dos games me abriu portas desse maravilhoso mundo, na época não tive contato com a programação, mas ja sabia mexer na parte de Hardware e prestar suporte, inclusive faço freelancer na área de suporte em hardware e software. Aprendi programação em 2019 e desde então meu mundo ficou diferente, foi aquilo que eu queria para o resto da minha vida. Passaram 3 anos desde então, e aprendi HTML, CSS, JavaScript, Angular, MySQL, No-SQL, TypeScript, Java, Python e React. Ainda não estou empregada na área, mas estou cada dia evoluindo mais e mais para isso.
   
 </div>
 
