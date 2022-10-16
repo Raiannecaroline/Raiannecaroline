@@ -100,7 +100,7 @@
 ##
 
 <p align="center">
- 🌱 Linguagens e Ferramentas que tenho aprendido:
+ 🌱 Linguagens e Ferramentas que tenho aprendido: :book:
 </p>
 
 <p align="center">
