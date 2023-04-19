@@ -37,9 +37,9 @@
   
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Raiannecaroline?cardType=level-alternate&theme=radical)](https://git.io/awesome-stats-card)
   
-[![Top Langs da Rai](https://github-readme-stats.vercel.app/api/top-langs/?username=Raiannecaroline&langs_count=8)](https://github.com/Raiannecaroline/github-readme-stats)
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raiannecaroline&layout=compact&langs_count=6&theme=tokyonight"/>
   
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=raiannecaroline&" alt="raiannecaroline" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=raiannecaroline&theme=tokyonight" alt="raiannecaroline" /></p>
 
 ##   
   
