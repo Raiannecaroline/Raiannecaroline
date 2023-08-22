@@ -56,14 +56,27 @@
 </div>
 
 <p align="center">
+  :computer: IDEs que utilizo:
+</p>
+
+<p align="center">
+  
+  <a href="https://code.visualstudio.com/">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>
+   </a>
+   
+</p>
+
+<p align="center">
  🌱 Linguagens e Ferramentas que tenho XP:
 </p>
 
  <p align="center">
-  
-   <a href="https://code.visualstudio.com/">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>
-   </a>
+
+  <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
+  </a>
+   
    <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" alt="html5" width="40" height="40"/>
    </a>
@@ -108,10 +121,6 @@
  <a href="https://nodejs.org">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/>
  </a>
-  
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
-  </a>
   
   <a href="https://pt-br.reactjs.org/">
        <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React" width="40" height="40"/>
