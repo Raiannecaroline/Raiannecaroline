@@ -9,7 +9,7 @@
 
 <div align="center">
  
-   - 👩‍💻 Moro em Eunápolis - BA - BR e tenho 29 anos
+   - 👩‍💻 Moro em Eunápolis - BA - BR e tenho 30 anos
   - 🌟 Desde muito nova, sempre fui encantada pela tecnologia e sempre fui muito curiosa quanto a isso. O mundo dos games me abriu portas desse maravilhoso mundo, na época não tive contato com a programação, mas ja sabia mexer na parte de Hardware e prestar suporte, inclusive faço freelancer na área de suporte em hardware e software. Aprendi programação em 2019 e desde então meu mundo ficou diferente, foi aquilo que eu queria para o resto da minha vida. Passaram 4 anos desde então, e aprendi HTML, CSS, JavaScript, Angular, MySQL, No-SQL, TypeScript, Java, Python e React. Ainda não estou empregada na área, mas estou cada dia evoluindo mais e mais para isso.
   - 📖 Curso de Análise e Desenvolvimento de Sistemas - IFBA - 4° semestre (Dez/2025) :woman_student:
   
