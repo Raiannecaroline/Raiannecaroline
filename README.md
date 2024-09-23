@@ -9,9 +9,9 @@
 
 <div align="center">
  
-   - 👩‍💻 Moro em Eunápolis (Extremo Sul da Bahia) - BA - BR e tenho 30 anos
+   - 👩‍💻 Moro em Eunápolis (Extremo Sul da Bahia) - BA - BR e tenho 31 anos
   - 🌟 Desde muito nova, sempre fui encantada pela tecnologia e sempre fui muito curiosa quanto a isso. O mundo dos games me abriu portas desse maravilhoso mundo, na época não tive contato com a programação, mas ja sabia mexer na parte de Hardware e prestar suporte, inclusive faço freelancer na área de suporte em hardware e software. Aprendi programação em 2019 e desde então meu mundo ficou diferente, foi aquilo que eu queria para o resto da minha vida. Passaram 4 anos desde então, e aprendi HTML, CSS, JavaScript, Angular, MySQL, No-SQL, TypeScript, Java, Python e React. Ainda não estou empregada na área, mas estou cada dia evoluindo mais e mais para isso.
-  - 📖 Curso de Análise e Desenvolvimento de Sistemas - IFBA - 3° semestre (Dez/2025) :woman_student:
+  - 📖 Curso de Análise e Desenvolvimento de Sistemas - IFBA - 4° semestre (Dez/2025) :woman_student:
   
 </div>
 
@@ -186,10 +186,6 @@
   
   <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> 
-  </a>
-  
-  <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> 
-        <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> 
   </a>
   
 </p>
