@@ -49,7 +49,7 @@
 
 <p> :headphones: Escuto enquanto trabalho e estudo: :musical_note:</p>
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=raianecaroline.st&cover_image=true&theme=natemoo-re&show_offline=false&bar_color=485556&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=raianecaroline.st&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=raianecaroline.st&cover_image=false&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=raianecaroline.st&redirect=true)
 
 ##
 
