@@ -107,6 +107,14 @@
   <a href="https://www.typescriptlang.org/">
        <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="Typescript" width="40" height="40"/>
   </a>
+
+  <a href="https://spring.io/" target="_blank" rel="noreferrer"> 
+        <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> 
+  </a>
+
+  <a href="https://www.mysql.com/">
+        <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="MySQL" width="40" height="40"/>
+  </a>
   
 </p>
 
@@ -121,26 +129,38 @@
  <a href="https://nodejs.org">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/>
  </a>
+
+ <a href="https://www.chartjs.org" target="_blank" rel="noreferrer">
+      <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> 
+ </a>
   
   <a href="https://pt-br.reactjs.org/">
        <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React" width="40" height="40"/>
-  </a>  
-  
-  <a href="https://www.mysql.com/">
-        <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="MySQL" width="40" height="40"/>
+  </a>
+
+  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> 
+       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> 
+  </a>
+
+  <a href="https://d3js.org/" target="_blank" rel="noreferrer"> 
+       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40"/> 
   </a>
   
   <a href="https://www.postgresql.org/">
         <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" alt="PostegreSQL" width="40" height="40"/>
   </a>
+
+  <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> 
+  </a>
   
   <a href="https://firebase.google.com/?gclid=CjwKCAjw5s6WBhA4EiwACGncZYBm3Wp-87aR2a2bYqFTHoV1FhCPbuFy3YM4vgpxlmyAFQrl4_pv5RoCJIAQAvD_BwE&gclsrc=aw.ds">
         <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" width="40" height="40"/>
   </a>
-  
-  <a href="https://www.mongodb.com/cloud/atlas/lp/compare-mongodb-vs-postgresdb?utm_source=google&utm_campaign=gs_americas_brazil_search_nbnoncompetitor_atlas_desktop&utm_term=postgres&utm_medium=cpc_paid_search&utm_ad=e&utm_ad_campaign_id=12314592861&adgroup=117139493749&gclid=CjwKCAjw5s6WBhA4EiwACGncZSKpufy3-tzmZ8jL7EXSpebiidfyFNYh3pRqEHybm6A3hLyCM9QdoxoCR5EQAvD_BwE">
-        <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" alt="MongoDB" width="40" height="40"/>
-  </a>  
+
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
+  </a>
   
   <a href="https://www.python.org/">
         <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" width="40" height="40"/>
@@ -153,6 +173,10 @@
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> 
   </a>
+
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
+  </a>
   
   <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> 
         <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> 
@@ -161,9 +185,13 @@
   <a href="https://redis.io" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> 
   </a>
-  
-  <a href="https://spring.io/" target="_blank" rel="noreferrer"> 
-        <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> 
+
+  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> 
+        <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> 
+  </a>
+
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
+        <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> 
   </a>
   
  </p>
